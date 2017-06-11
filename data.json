@@ -1,0 +1,26 @@
+{
+  "Cities" : [ 
+    {
+        "Name": "Montreal",
+        "Collectives": [
+            {
+                "Name": "Les Échelles",
+                "FacebookID": "Les-Échelles-881239265343642"
+            },
+            {
+                "Name": "Macroscope",
+                "FacebookID": "1073570246064082"
+            }
+        ]
+    },
+    {
+        "Name": "Sherbrooke",
+        "Collectives" : [
+            {
+                "Name": "Tierra del Fuego",
+                "FacebookID": "tierradelfuego.lennoxville"
+            }
+        ]
+    } 
+  ]
+}
