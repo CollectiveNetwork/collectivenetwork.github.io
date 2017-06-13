@@ -1,7 +1,12 @@
 {
     "compilerOptions": {
         "target": "es6",
-        "module": "commonjs",
-        "sourceMap": true
-    }
+        "sourceMap": true,
+        "watch": true
+    },
+    "include": [
+        "public/src/**/*.ts",
+        "node_modules/firebase/firebase.d.ts"
+    ],
+    "compileOnSave": true
 }

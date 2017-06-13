@@ -7,9 +7,15 @@
   "homepage": "",
   "author": "",
   "dependencies": {
+    "@types/firebase": "^2.4.31",
+    "babel": "^6.23.0",
+    "browserify": "^14.4.0",
     "commonjs": "0.0.1",
+    "express": "^4.15.3",
     "firebase": "^4.1.2",
-    "jquery": "^3.2.1"
+    "jquery": "^3.2.1",
+    "request": "^2.81.0",
+    "requirejs": "^2.3.3"
   },
   "main": "index",
   "devDependencies": {
